@@ -1,3 +1,3 @@
 Weather-application
-currently i am working in this project
+currently i am working in this project.
 
